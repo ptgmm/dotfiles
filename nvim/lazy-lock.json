@@ -1,4 +1,9 @@
 {
+  "Colorizer": { "branch": "master", "commit": "7db0e0dd8adfccab35655f5b6db805caa0fef49a" },
+  "austere.vim": { "branch": "master", "commit": "d985d31982bef869055e7a8c8d01cfe8c2992279" },
+  "gruber-darker": { "branch": "main", "commit": "a2dda61d9c1225e16951a51d6b89795b0ac35cd6" },
+  "gruvbox": { "branch": "master", "commit": "f1ecde848f0cdba877acb0c740320568252cc482" },
+  "hybrid": { "branch": "master", "commit": "cc58baabeabc7b83768e25b852bf89c34756bf90" },
   "lazy.nvim": { "branch": "main", "commit": "b0ba3f9399bf48c86abaa4db1a40bd0b681d5018" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "a4caa0d083aab56f6cd5acf2d42331b74614a585" },
   "mason.nvim": { "branch": "main", "commit": "0950b15060067f752fde13a779a994f59516ce3d" },
@@ -7,5 +12,8 @@
   "nvim-lspconfig": { "branch": "master", "commit": "d1ab6b6051976b04948e127b0f302a465b1394d6" },
   "nvim-web-devicons": { "branch": "master", "commit": "b77921fdc44833c994fdb389d658ccbce5490c16" },
   "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
-  "telescope.nvim": { "branch": "master", "commit": "6312868392331c9c0f22725041f1ec2bef57c751" }
+  "rose-pine": { "branch": "main", "commit": "87aa437172357ad8f916942bca249ceadc6c68b1" },
+  "telescope.nvim": { "branch": "master", "commit": "6312868392331c9c0f22725041f1ec2bef57c751" },
+  "tokyonight": { "branch": "main", "commit": "9d88650502bc331f43eb0bef6286e58144ac5a96" },
+  "vim-jimbothemes": { "branch": "master", "commit": "2610b8e862624c77ea70d8c72c179379f784c57b" }
 }
